@@ -1,5 +1,5 @@
 # Run bulk_extractor on select file formats
-This Bash script allows you to exclude some file formats (or files containing a particular string) from a bulk_extractor scan.
+SCRC uses this digital forensics tool to search for PII in born-digital materials. By default, bulk_extractor runs over all file formats, but only searches text. Therefore, running it over audiovisual files may be inefficient. This Bash script allows you to exclude some file formats (or files containing a particular string) from a bulk_extractor scan.
 
 ## Instructions
 
